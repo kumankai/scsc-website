@@ -1,4 +1,5 @@
 import "./App.css";
+import president from './assets/president.png';
 
 function App() {
   return (
@@ -8,8 +9,9 @@ function App() {
           The Official Sheridan College Computer Science Club Website!
         </h1>
         <p className="p-text">
-          Yeah this site is empty. Get to codin club members ;)
+          Yeah this site is empty. Get to codin club members ;
         </p>
+        <img src={president}/>
       </div>
     </>
   );
