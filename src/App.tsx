@@ -8,8 +8,7 @@ function App() {
         <h1 className="header-1">
           The Official Sheridan College Computer Science Club Website!
         </h1>
-        <p className="p-text">
-          Yeah this site is empty. Get to codin club members ;
+        <p className="p-text">Get to codin club members ;)
         </p>
         <img src={president}/>
       </div>
